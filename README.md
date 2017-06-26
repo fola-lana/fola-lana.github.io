@@ -1,4 +1,3 @@
-"title: Welcome to the Component Log prtotype"
 
 ## Welcome to GitHub Pages
 
