@@ -1,6 +1,23 @@
 
-## Welcome to GitHub Pages
+# Welcome to the Component Log landing page
 
+### Select account type
+
+   [Personal Account](https://codepen.io/HerrFolmann/pen/vXzmzO)
+
+   [Service Provider](url)
+
+   [Spare parts seller](url)
+
+   [Service provider specialist](url)
+
+   [OEM](url)
+
+
+
+
+### ------------------Footer Reference Data----------------------------------
+## Welcome to the Component Log landing page
 You can use the [editor on GitHub](https://github.com/fola-lana/fola-lana.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
