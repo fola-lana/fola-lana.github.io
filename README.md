@@ -17,4 +17,5 @@
 
 
 ### ------------------Footer Reference Data----------------------------------
-## Welcome to the Component Log landing page
+Designed and Developed by [HerrFolmann](https://facebook.com/folajo) <br/>
+&copy; 2017 All rights reserved.
